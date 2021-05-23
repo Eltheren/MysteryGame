@@ -1,0 +1,283 @@
+Using pre-set license
+Built from 'trunk' branch; Version is '2021.1.0a6 (0722b711ea8f) revision 467639'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home China; OS build 18363.1198; Version 1909; 64bit' Language: 'zh' Physical Memory: 16262 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+E:\Unityhub\2021.1.0a6\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+E:/Unityhub/unity-item-system-master
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+54015
+Successfully changed project path to: E:/Unityhub/unity-item-system-master
+E:/Unityhub/unity-item-system-master
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 20.73 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.0a6 (0722b711ea8f)
+[Subsystems] Discovering subsystems at path E:/Unityhub/2021.1.0a6/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/Unityhub/unity-item-system-master/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1060 (ID=0x1c20)
+    Vendor:   
+    VRAM:     6052 MB
+    Driver:   26.21.14.4614
+Initialize mono
+Mono path[0] = 'E:/Unityhub/2021.1.0a6/Editor/Data/Managed'
+Mono path[1] = 'E:/Unityhub/2021.1.0a6/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'E:/Unityhub/2021.1.0a6/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56312
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: E:/Unityhub/2021.1.0a6/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002829 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 18.43 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.412 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001429 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.957 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.09 seconds
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 974 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 184.0 MB.
+System memory in use after: 184.0 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1429.
+Total: 2.168700 ms (FindLiveObjects: 0.122500 ms CreateObjectMapping: 0.040800 ms MarkObjects: 1.940000 ms  DeleteObjects: 0.064100 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Src/Runtime/Item/Editor/Item.Editor.asmdef
+  artifactKey: Guid(3e45330665b91e3458f613b42024f4eb) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Src/Runtime/Item/Editor/Item.Editor.asmdef using Guid(3e45330665b91e3458f613b42024f4eb) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/4d19235a92c170a4d96698f883e4888b.asset.1.index for Assets/Src/Runtime/Item/Editor/Item.Editor.asmdef with Types
+ -> (artifact id: '5d3a0efe08adab43a32bf3c8be0e169d') in 0.157823 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.026503 seconds.
+  path: Assets/Src/Runtime/Inventory/Scripts/InventoryUI.cs
+  artifactKey: Guid(38236488789da4cdcb265d9e94bab21e) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Src/Runtime/Inventory/Scripts/InventoryUI.cs using Guid(38236488789da4cdcb265d9e94bab21e) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/a2bb6ec03132c8a469582c94c2be561c.asset.1.index for Assets/Src/Runtime/Inventory/Scripts/InventoryUI.cs with Types
+ -> (artifact id: 'be7c928fc53e327c8dfabac295573e85') in 0.216620 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.021224 seconds.
+  path: Assets/Resources/Items/Icecream.asset
+  artifactKey: Guid(d79180d8871764afaa7c3d26f69f0ea1) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Resources/Items/Icecream.asset using Guid(d79180d8871764afaa7c3d26f69f0ea1) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/2510d911bb016c04ea76031ca3cff8fa.asset.1.index for Assets/Resources/Items/Icecream.asset with Types
+ -> (artifact id: '392f9f81253ff4e3e48d723346dcfcca') in 0.026928 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.023958 seconds.
+  path: Assets/Src/Runtime/Inventory/Scripts/InventoryItemSlotUI.cs
+  artifactKey: Guid(5d241bae4f2d6460db2c455dcab66750) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Src/Runtime/Inventory/Scripts/InventoryItemSlotUI.cs using Guid(5d241bae4f2d6460db2c455dcab66750) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/7ec9c0a19b8ecef4c94585c2620225f4.asset.1.index for Assets/Src/Runtime/Inventory/Scripts/InventoryItemSlotUI.cs with Types
+ -> (artifact id: '96db5bcd65c08fa1b21b84b92351a894') in 0.016818 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.023467 seconds.
+  path: Assets/Demo/InventoryUI.cs
+  artifactKey: Guid(db03fde154689476e894adfbe1fbde4d) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Demo/InventoryUI.cs using Guid(db03fde154689476e894adfbe1fbde4d) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/f1208de0cc9e8b242b51e1ddac5fee8c.asset.1.index for Assets/Demo/InventoryUI.cs with Types
+ -> (artifact id: '76a3f8d7273f6db9a7f854a055b61982') in 0.015208 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.022461 seconds.
+  path: Assets/Src/Runtime/Item/Scripts/ItemTemplate.cs
+  artifactKey: Guid(25bbc8ea0a6fe441dba488e1b057fc07) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Src/Runtime/Item/Scripts/ItemTemplate.cs using Guid(25bbc8ea0a6fe441dba488e1b057fc07) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/f67a1f37ff0400d43a2d74dd27005bdd.asset.1.index for Assets/Src/Runtime/Item/Scripts/ItemTemplate.cs with Types
+ -> (artifact id: 'c50604f1a07262ddd1c80783be5abc3c') in 0.017429 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.024579 seconds.
+  path: Assets/Src
+  artifactKey: Guid(bb82b855946e145098f404f8f7a6f0e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Src using Guid(bb82b855946e145098f404f8f7a6f0e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c24e50ab5bf47d217baef49a522f8841') in 0.008437 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.023996 seconds.
+  path: Assets/Resources/Items/Unicorn Icecream.asset
+  artifactKey: Guid(7037fa58fc1eb4281a537984f0d5f0f3) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Resources/Items/Unicorn Icecream.asset using Guid(7037fa58fc1eb4281a537984f0d5f0f3) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/26d346718e96bfb479f9b82753f7a912.asset.1.index for Assets/Resources/Items/Unicorn Icecream.asset with Types
+ -> (artifact id: '6e27e5c7a659c78e483d7f36738772cc') in 0.018395 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.022221 seconds.
+  path: Assets/Demo/demo.unity
+  artifactKey: Guid(9cf0b06ad71a246e2aaecec91e0f385c) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Demo/demo.unity using Guid(9cf0b06ad71a246e2aaecec91e0f385c) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/c425a9d37d11c504a82236181c475770.asset.1.index for Assets/Demo/demo.unity with Types
+ -> (artifact id: 'a48b30d61bfd4323385e9f93a59ddc80') in 0.017108 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.020709 seconds.
+  path: Assets/Src/Runtime/Item/ice-cream.gif
+  artifactKey: Guid(b58e1a2aa0e5f3647a2e8f517d5e4199) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Src/Runtime/Item/ice-cream.gif using Guid(b58e1a2aa0e5f3647a2e8f517d5e4199) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/32a4236f2cb13584aa8d820e8431b109.asset.1.index for Assets/Src/Runtime/Item/ice-cream.gif with Types
+ -> (artifact id: '7953a8087ed8a2e511ce3adc4cbd22f2') in 0.037506 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.023999 seconds.
+  path: Assets/Src/Editor/Editor.asmdef
+  artifactKey: Guid(a639e252934a4b54ba241e770708bcfe) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Src/Editor/Editor.asmdef using Guid(a639e252934a4b54ba241e770708bcfe) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/94766d6982879904ea6e6d3745bc52e5.asset.1.index for Assets/Src/Editor/Editor.asmdef with Types
+ -> (artifact id: 'ab386e1299583e8bc8233d340a25b29a') in 0.150052 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.023747 seconds.
+  path: Assets/Demo
+  artifactKey: Guid(e9fb7367ebefd4545b41e51d2d1ca143) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Demo using Guid(e9fb7367ebefd4545b41e51d2d1ca143) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '259987df1283743a39e2701c3a60570d') in 0.010435 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.024152 seconds.
+  path: Assets/Src/Runtime/Item/Editor/ItemEditor.cs
+  artifactKey: Guid(80a4042d7b19845419f0283ec55b187e) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Src/Runtime/Item/Editor/ItemEditor.cs using Guid(80a4042d7b19845419f0283ec55b187e) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/fe6213dd61d577043bed42a029faced1.asset.1.index for Assets/Src/Runtime/Item/Editor/ItemEditor.cs with Types
+ -> (artifact id: '40ed026ecfbcea43780b8c5d426132f5') in 0.012540 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.022406 seconds.
+  path: Assets/Demo/InventoryUIManager.cs
+  artifactKey: Guid(287f70ad3ffd743c9b9dd004f37eb190) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Demo/InventoryUIManager.cs using Guid(287f70ad3ffd743c9b9dd004f37eb190) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/63faac896b7866e449dd9b9c11b1bb0a.asset.1.index for Assets/Demo/InventoryUIManager.cs with Types
+ -> (artifact id: '21b219f13719a0d58e55cd1a69e9d592') in 0.015474 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.021665 seconds.
+  path: Assets/Src/Runtime/Runtime.asmdef
+  artifactKey: Guid(4cd97e4060dbba141979f2b323f57afa) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Src/Runtime/Runtime.asmdef using Guid(4cd97e4060dbba141979f2b323f57afa) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/ae4cb0acfec33584693aec67b9e193a6.asset.1.index for Assets/Src/Runtime/Runtime.asmdef with Types
+ -> (artifact id: 'd168445f5ffc28aa8fb5491e33ff5248') in 0.019355 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.021823 seconds.
+  path: Assets/Src/Runtime/Item/Scripts/ItemInstance.cs
+  artifactKey: Guid(de4d5620614714966916be1b7e41a7c1) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Src/Runtime/Item/Scripts/ItemInstance.cs using Guid(de4d5620614714966916be1b7e41a7c1) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/607661c62a6d48243b3412e9646c78e3.asset.1.index for Assets/Src/Runtime/Item/Scripts/ItemInstance.cs with Types
+ -> (artifact id: 'c55884845fdeec538f3c97025883af51') in 0.014613 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.020319 seconds.
+  path: Assets/Src/Runtime/EnumFlagsAttribute.cs
+  artifactKey: Guid(bd2679613a5be4f7fb31749f9d983133) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Src/Runtime/EnumFlagsAttribute.cs using Guid(bd2679613a5be4f7fb31749f9d983133) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/b90e4aaf3a8c72a42969f62930bf1fe2.asset.1.index for Assets/Src/Runtime/EnumFlagsAttribute.cs with Types
+ -> (artifact id: 'b322112f9c9e0b9b6c59a2d30fd79383') in 0.017745 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.019774 seconds.
+  path: Assets/Src/Runtime/Inventory/Scripts/InventoryItemSlot.cs
+  artifactKey: Guid(98c76bfa9e84d45d19a33df4e875cbe6) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Src/Runtime/Inventory/Scripts/InventoryItemSlot.cs using Guid(98c76bfa9e84d45d19a33df4e875cbe6) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/505e6d29cb4f64c459a3da0a0dad9280.asset.1.index for Assets/Src/Runtime/Inventory/Scripts/InventoryItemSlot.cs with Types
+ -> (artifact id: 'cf5c531e423bb721f3158aa6b7c0fa32') in 0.012254 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.017894 seconds.
+  path: Assets/Resources
+  artifactKey: Guid(5d02ca18b2e6e4642a7e1e3bc639a159) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources using Guid(5d02ca18b2e6e4642a7e1e3bc639a159) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e25df21bc5b86106871b8fd08517500a') in 0.007970 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.020297 seconds.
+  path: Assets/Src/Editor/AssetUtility.cs
+  artifactKey: Guid(1f1c77c0561aad34ba092e543c5187d2) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Src/Editor/AssetUtility.cs using Guid(1f1c77c0561aad34ba092e543c5187d2) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/cb1f102a1cef45d40a83c76ef0509e0c.asset.1.index for Assets/Src/Editor/AssetUtility.cs with Types
+ -> (artifact id: '5a9cd3625b402856b5dad4dd1c4715bd') in 0.015510 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.019534 seconds.
+  path: Assets/Src/Runtime/Inventory/Prefabs/InventoryItemSlot.prefab
+  artifactKey: Guid(517255f89e8b92944a12f5efc562668e) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Src/Runtime/Inventory/Prefabs/InventoryItemSlot.prefab using Guid(517255f89e8b92944a12f5efc562668e) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/555140e7dfed79b47a04f9922d44597f.asset.1.index for Assets/Src/Runtime/Inventory/Prefabs/InventoryItemSlot.prefab with Types
+ -> (artifact id: '1ddef0c690d48125d6f5d6a578827291') in 0.020144 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.018222 seconds.
+  path: Assets/Src/Runtime/Inventory/Scripts/Inventory.cs
+  artifactKey: Guid(0b8c975335fc948ff9ebf0d915477f5f) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Src/Runtime/Inventory/Scripts/Inventory.cs using Guid(0b8c975335fc948ff9ebf0d915477f5f) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/966b8ab8ad94f24438aabe6c8819ce93.asset.1.index for Assets/Src/Runtime/Inventory/Scripts/Inventory.cs with Types
+ -> (artifact id: '660f7d2e9e0b560a3a5f680a050bfe29') in 0.016408 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.021933 seconds.
+  path: Assets/Src/Runtime/Inventory/Scripts/InventoryUIManager.cs
+  artifactKey: Guid(e2d9f8f721d23a344af056c9b5bb8c46) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Src/Runtime/Inventory/Scripts/InventoryUIManager.cs using Guid(e2d9f8f721d23a344af056c9b5bb8c46) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/7c48364b0b4e42746968df42a259b1e0.asset.1.index for Assets/Src/Runtime/Inventory/Scripts/InventoryUIManager.cs with Types
+ -> (artifact id: '5b3b532fe11bbab7cdae41ae62dae3b5') in 0.019656 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.017684 seconds.
+  path: Assets/Demo/demo.cs
+  artifactKey: Guid(09025edfbdda140dcbf38f466cfb1a7c) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Demo/demo.cs using Guid(09025edfbdda140dcbf38f466cfb1a7c) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/7b91eccc881a88748994749fcdc7045f.asset.1.index for Assets/Demo/demo.cs with Types
+ -> (artifact id: '102aa06fee3b134570a4493bc227fd51') in 0.012408 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.021014 seconds.
+  path: Assets/Src/Runtime/Inventory/Scripts/InventoryBaseSlotUI.cs
+  artifactKey: Guid(89cc29e71728149ea885fa8b1ec52397) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Src/Runtime/Inventory/Scripts/InventoryBaseSlotUI.cs using Guid(89cc29e71728149ea885fa8b1ec52397) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/634b94a038097af449838f23797bc989.asset.1.index for Assets/Src/Runtime/Inventory/Scripts/InventoryBaseSlotUI.cs with Types
+ -> (artifact id: 'd55b55fa34dcc0e2b0f86f60e548adb7') in 0.015656 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.023640 seconds.
+  path: Assets/Src/Runtime/Inventory/Scripts/InventoryBaseSlot.cs
+  artifactKey: Guid(68058ecbeac8349ffbcce50d9dc654df) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Src/Runtime/Inventory/Scripts/InventoryBaseSlot.cs using Guid(68058ecbeac8349ffbcce50d9dc654df) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/8e696bdaf9f445a4ca85f169713e849f.asset.1.index for Assets/Src/Runtime/Inventory/Scripts/InventoryBaseSlot.cs with Types
+ -> (artifact id: '1491c94687a6161dfccd4e9b5082cae6') in 0.015445 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.022492 seconds.
+  path: Assets/Src/Editor/EnumFlagsAttributeDrawer.cs
+  artifactKey: Guid(104a40e6d96b84c47b0558253aeba63b) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Src/Editor/EnumFlagsAttributeDrawer.cs using Guid(104a40e6d96b84c47b0558253aeba63b) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/4ddd8e3b3fecf9546bb1912e26175d3e.asset.1.index for Assets/Src/Editor/EnumFlagsAttributeDrawer.cs with Types
+ -> (artifact id: 'f77485c490461aa53f6dfe13ca52f618') in 0.045068 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.023458 seconds.
+  path: Assets/Src/Runtime/Inventory/Prefabs/InventorySquareSprites.psd
+  artifactKey: Guid(1696e93df25fe4bfd961ed84cd823833) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Src/Runtime/Inventory/Prefabs/InventorySquareSprites.psd using Guid(1696e93df25fe4bfd961ed84cd823833) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/f894f03d6be193f44b2c419ac4f43d8d.asset.1.index for Assets/Src/Runtime/Inventory/Prefabs/InventorySquareSprites.psd with Types
+ -> (artifact id: '4d6fb1a67c763a64bcbbdb3e33341027') in 0.036782 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.020836 seconds.
+  path: Assets/Src/Runtime/Inventory/Prefabs/Canvas.prefab
+  artifactKey: Guid(33b27cc8128744694aa609a26bacea26) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Src/Runtime/Inventory/Prefabs/Canvas.prefab using Guid(33b27cc8128744694aa609a26bacea26) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/0831533251df8ae4c8e2abef26424c28.asset.1.index for Assets/Src/Runtime/Inventory/Prefabs/Canvas.prefab with Types
+ -> (artifact id: 'd9511905e1d859f16673e90b0021e32b') in 0.046225 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.023523 seconds.
+  path: Assets/Demo/InventoryItemSlotUI.cs
+  artifactKey: Guid(95f211a76ac474e72acfb1acaf73bac3) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Demo/InventoryItemSlotUI.cs using Guid(95f211a76ac474e72acfb1acaf73bac3) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/0890cec98c6335a46beca42cf0f3f5a7.asset.1.index for Assets/Demo/InventoryItemSlotUI.cs with Types
+ -> (artifact id: '1bd31eac6eccc6ff2a65e7165c32523e') in 0.016425 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.021248 seconds.
+  path: Assets/Src/Runtime/Item/Scripts/ItemTemplateManager.cs
+  artifactKey: Guid(9ae40b387f53a5a4ead6b9a5397d1e16) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Src/Runtime/Item/Scripts/ItemTemplateManager.cs using Guid(9ae40b387f53a5a4ead6b9a5397d1e16) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated asset (ASIEI01) VirtualArtifacts/NamedExtra/be9b6cca4179c13439b6a29defae0551.asset.1.index for Assets/Src/Runtime/Item/Scripts/ItemTemplateManager.cs with Types
+ -> (artifact id: '74f98c92a4896acf0582e23c859a2010') in 0.020103 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
